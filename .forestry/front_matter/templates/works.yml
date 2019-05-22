@@ -30,7 +30,8 @@ fields:
 - name: date
   default: ''
   label: Date
-  hidden: true
+  hidden: false
   type: datetime
   config:
     required: true
+    date_format: LL
