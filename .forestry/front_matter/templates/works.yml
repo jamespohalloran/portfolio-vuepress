@@ -34,13 +34,5 @@ fields:
   type: datetime
   config:
     required: true
-    date_format: YYYY
-- name: date2
-  type: datetime
-  description: ''
-  config:
-    required: false
-    date_format: YYYY
-    time_format: 
-    display_utc: false
-  label: date2
+    date_format: MM/DD/YYYY
+    time_format: 'h:mm: A ZZ'
