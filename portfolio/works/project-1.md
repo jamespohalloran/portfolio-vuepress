@@ -1,8 +1,8 @@
 ---
 title: Project one
-date: 2018-08-09 00:00:00 +0000
+date: 2019-05-07 22:00:00 +0000
 thumbnail: "/upload/photo-1490013616775-3ca8865fb129.jpeg"
-year: 2018
+year: '2018'
 categories:
 - print
 description: subtitle
