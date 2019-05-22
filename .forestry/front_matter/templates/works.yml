@@ -34,4 +34,4 @@ fields:
   type: datetime
   config:
     required: true
-    date_format: ''
+    date_format: LL
