@@ -1,8 +1,8 @@
 ---
 title: Project three
-date: 2017-02-07 18:00:00 +0000
+date: 2015-05-01 03:00:00 +0000
 thumbnail: "/upload/photo-1504198322253-cfa87a0ff25f.jpeg"
-year: 2007
+year: '2007'
 categories:
 - print
 description: subtitle

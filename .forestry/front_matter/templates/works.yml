@@ -34,5 +34,4 @@ fields:
   type: datetime
   config:
     required: true
-    date_format: MM/DD/YYYY
-    time_format: 'h:mm: A ZZ'
+    date_format: YYYY
