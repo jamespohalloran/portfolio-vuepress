@@ -1,6 +1,6 @@
 ---
 title: Project three
-date: 2010-02-06 06:00:00 +0000
+date: 2012-02-07 00:00:00 +0000
 thumbnail: "/upload/photo-1504198322253-cfa87a0ff25f.jpeg"
 year: 2007
 categories:
