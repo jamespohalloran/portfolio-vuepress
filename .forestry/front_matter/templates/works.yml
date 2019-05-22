@@ -35,4 +35,4 @@ fields:
   config:
     required: true
     date_format: MM/DD/YYYY
-    time_format: 'h:mm: A ZZ'
+    time_format: ''
