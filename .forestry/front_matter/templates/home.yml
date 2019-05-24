@@ -13,14 +13,5 @@ fields:
     wysiwyg: true
     schema:
       format: html
-- name: dateo
-  type: datetime
-  label: dateo
-  description: ''
-  config:
-    required: false
-    date_format: MM/DD/YYYY
-    time_format: h:mm A ZZ
-    display_utc: false
 pages:
 - portfolio/index.md

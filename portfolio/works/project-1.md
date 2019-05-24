@@ -1,11 +1,12 @@
 ---
 title: Project one
-date: 2016-12-31 23:30:00 -0400
+date: 2020-05-01 03:00:00 +0000
 thumbnail: "/upload/photo-1490013616775-3ca8865fb129.jpeg"
-year: 2018
+year: '2018'
 categories:
 - print
 description: subtitle
+date2: 2014-05-01 03:00:00 +0000
 
 ---
 # Project one
